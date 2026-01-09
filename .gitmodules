@@ -1,4 +1,5 @@
 [submodule "curriculum/i18n-curriculum"]
   path = curriculum/i18n-curriculum
-  url = https://github.com/freeCodeCamp/i18n-curriculum.git
+	url = https://github.com/davy39/i18n-curriculum
   ignore = dirty
+	branch = french
