@@ -230,6 +230,22 @@ export const notAuditedSuperBlocks: NotAuditedSuperBlocks = {
     SuperBlocks.BackEndDevApisV9,
     SuperBlocks.FullStackDeveloperV9
   ],
+  [Languages.French]: [
+    SuperBlocks.JsAlgoDataStructNew,
+    SuperBlocks.FullStackDeveloper,
+    SuperBlocks.A2English,
+    SuperBlocks.B1English,
+    SuperBlocks.A1Spanish,
+    SuperBlocks.A2Spanish,
+    SuperBlocks.A2Chinese,
+    SuperBlocks.A1Chinese,
+    SuperBlocks.BasicHtml,
+    SuperBlocks.SemanticHtml,
+    SuperBlocks.DevPlayground,
+    SuperBlocks.FrontEndDevLibsV9,
+    SuperBlocks.BackEndDevApisV9,
+    SuperBlocks.FullStackDeveloperV9
+  ],
   [Languages.Italian]: [
     SuperBlocks.FoundationalCSharp,
     SuperBlocks.JsAlgoDataStructNew,

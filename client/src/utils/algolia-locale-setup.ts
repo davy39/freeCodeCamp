@@ -21,6 +21,10 @@ const algoliaIndices = {
     name: 'news-zh',
     searchPage: 'https://www.freecodecamp.org/chinese/news/search/'
   },
+  french: {
+    name: 'news-fr',
+    searchPage: 'https://www.freecodecamp.org/french/news/search/'
+  },
   italian: {
     name: 'news-it',
     searchPage: 'https://www.freecodecamp.org/italian/news/search/'
